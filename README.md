@@ -1,7 +1,6 @@
 # 💫About Me :
 ## Hi there 👋, I'm Bach Thi Thuy Trieu
 
-- 🔭 Currently, I'm a second-year student at HUFLIT(Ho Chi Minh City University of Foreign Languages – Information Technology)
 - 🌱 I'm study information technology, and my major is software technology.
 - 💬 Language: Vietnamese, English
 - 📫 How to reach me: bachthithuytrieu0405@gmail.com
